@@ -1,0 +1,5 @@
+lucas 15
+gabriel 2
+priscila 10
+monique 25
+edson 50
